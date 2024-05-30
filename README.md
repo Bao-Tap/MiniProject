@@ -43,7 +43,7 @@ Dự án này là một ứng dụng được phát triển bằng Python, Tkint
 3. **Run the program:**
 
     ```bash
-    python app.py
+    python views.py
     ```
 
 
