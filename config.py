@@ -1,0 +1,1 @@
+DATABASE_URI = 'mysql+pymysql://root:123123@127.0.0.1/quytrinhsx'
