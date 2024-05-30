@@ -1,5 +1,5 @@
 # Digital twin trong quy trình sản xuất
-Dự án này là một ứng dụng được phát triển bằng Python, Tkinter và SQLAlchemy, giúp các doanh nghiệp quản lý quy trình sản xuất một cách hiệu quả. Với giao diện người dùng đơn giản và tích hợp cơ sở dữ liệu MySQL, dự án này cung cấp một cách tiếp cận linh hoạt và mạnh mẽ để theo dõi và tối ưu hóa sản xuất.
+Dự án này là một ứng dụng được phát triển bằng Python, Tkinter và SQLAlchemy, giúp các doanh nghiệp quản lý quy trình sản xuất một cách hiệu quả. Với giao diện người dùng đơn giản và tích hợp cơ sở dữ liệu MySQL, dự án này cung cấp một cách tiếp cận để theo dõi và tối ưu hóa sản xuất.
 
 ## Tính năng
 - Quản lý quy trình sản xuất từ đầu đến cuối.
